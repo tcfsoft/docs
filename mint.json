@@ -30,20 +30,6 @@
       "pages": [
         "introduction"
       ]
-    },
-    {
-      "locale": "en",
-      "group": "English",
-      "pages": [
-        "en/introduction"
-      ]
-    },
-    {
-      "locale": "es",
-      "group": "Español",
-      "pages": [
-        "en/introduction"
-      ]
     }
   ]
 }
