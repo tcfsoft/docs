@@ -16,20 +16,28 @@
   "versions": [
     {
       "name": "English",
-      "locale": "en"
+      "locale": "en",
+      "navigation": [
+        {
+          "group": "",
+          "pages": [
+            "introduction"
+          ]
+        }
+      ]
     },
     {
       "name": "Español",
-      "locale": "es"
-    }
-  ],
-  "defaultVersion": "English",
-  "navigation": [
-    {
-      "group": "",
-      "pages": [
-        "introduction"
+      "locale": "es",
+      "navigation": [
+        {
+          "group": "",
+          "pages": [
+            "introduccion"
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "defaultVersion": "English"
 }
