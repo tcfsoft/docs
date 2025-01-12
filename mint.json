@@ -1,36 +1,35 @@
 {
-    "$schema": "https://mintlify.com/schema.json",
-    "name": "Test Kit",
-    "logo": {
-        "dark": "/logo/dark.svg",
-        "light": "/logo/light.svg"
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Prism Starter Kit",
+  "theme": "prism",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg",
+    "href": "https://starter-prism.mintlify.app/"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#5D4CFE",
+    "light": "#8477FF",
+    "dark": "#5D4CFE"
+  },
+  "versions": [
+    {
+      "name": "English",
+      "path": "en"
     },
-    "versions": [
-        {
-            "name": "English",
-            "locale": "en"
-        },
-        {
-            "name": "Spanish",
-            "locale": "es"
-        }
-    ],
-    "favicon": "/favicon.svg",
-    "colors": {
-        "primary": "#0D9373",
-        "light": "#07C983",
-        "dark": "#0D9373",
-        "anchors": {
-            "from": "#0D9373",
-            "to": "#07C983"
-        }
-    },
-    "navigation": [
-        {
-            "group": "Test",
-            "pages": [
-                "test-page"
-            ]
-        }
-    ]
+    {
+      "name": "Español",
+      "path": "es"
+    }
+  ],
+  "defaultVersion": "en",
+  "navigation": [
+    {
+      "group": "",
+      "pages": [
+        "introduction"
+      ]
+    }
+  ]
 }
