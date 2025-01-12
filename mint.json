@@ -8,11 +8,41 @@
     "versions": [
         {
             "name": "English",
-            "locale": "en"
+            "locale": "en",
+            "links": {
+                "introduction": "en/introduction.mdx",
+                "quickstart": "en/quickstart.mdx",
+                "development": "en/development.mdx",
+                "essentials/markdown": "en/essentials/markdown.mdx",
+                "essentials/code": "en/essentials/code.mdx",
+                "essentials/images": "en/essentials/images.mdx",
+                "essentials/settings": "en/essentials/settings.mdx",
+                "essentials/navigation": "en/essentials/navigation.mdx",
+                "essentials/reusable-snippets": "en/essentials/reusable-snippets.mdx",
+                "api-reference/introduction": "en/api-reference/introduction.mdx",
+                "api-reference/endpoint/get": "en/api-reference/endpoint/get.mdx",
+                "api-reference/endpoint/create": "en/api-reference/endpoint/create.mdx",
+                "api-reference/endpoint/delete": "en/api-reference/endpoint/delete.mdx"
+            }
         },
         {
             "name": "Spanish",
-            "locale": "es"
+            "locale": "es",
+            "links": {
+                "introduction": "es/introduccion.mdx",
+                "quickstart": "es/inicio-rapido.mdx",
+                "development": "es/desarrollo.mdx",
+                "essentials/markdown": "es/esenciales/markdown.mdx",
+                "essentials/code": "es/esenciales/codigo.mdx",
+                "essentials/images": "es/esenciales/imagenes.mdx",
+                "essentials/settings": "es/esenciales/configuraciones.mdx",
+                "essentials/navigation": "es/esenciales/navegacion.mdx",
+                "essentials/reusable-snippets": "es/esenciales/fragmentos-reutilizables.mdx",
+                "api-reference/introduction": "es/referencia-api/introduccion.mdx",
+                "api-reference/endpoint/get": "es/referencia-api/endpoint/obtener.mdx",
+                "api-reference/endpoint/create": "es/referencia-api/endpoint/crear.mdx",
+                "api-reference/endpoint/delete": "es/referencia-api/endpoint/eliminar.mdx"
+            }
         }
     ],
     "favicon": "/favicon.svg",
@@ -38,13 +68,7 @@
     "tabs": [
         {
             "name": "API Reference",
-            "url": "api-reference",
-            "locale": "en"
-        },
-        {
-            "name": "API Referencia",
-            "url": "api-reference-2",
-            "locale": "es"
+            "url": "api-reference"
         }
     ],
     "anchors": [
