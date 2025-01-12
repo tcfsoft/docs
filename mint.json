@@ -37,9 +37,14 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+     "name": "API Reference",
       "url": "api-reference"
-    }
+    "locale": "en",
+  },
+  {
+    "name": "API Referenciae",
+      "url": "api-reference"
+    "locale": "es"
   ],
   "anchors": [
     {
