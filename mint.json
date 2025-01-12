@@ -16,28 +16,28 @@
   "versions": [
     {
       "name": "English",
-      "locale": "en",
-      "navigation": [
-        {
-          "group": "",
-          "pages": [
-            "introduction"
-          ]
-        }
-      ]
+      "locale": "en"
     },
     {
       "name": "Español",
-      "locale": "es",
-      "navigation": [
-        {
-          "group": "",
-          "pages": [
-            "introduccion"
-          ]
-        }
-      ]
+      "locale": "es"
     }
   ],
-  "defaultVersion": "English"
+  "defaultVersion": "English",
+  "navigation": [
+    {
+      "group": "",
+      "version": "English",
+      "pages": [
+        "en/introduction"
+      ]
+    }
+    {
+      "group": "",
+      "version": "Español",
+      "pages": [
+        "es/introduction"
+      ]
+    }
+  ]
 }
