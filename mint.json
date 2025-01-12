@@ -16,11 +16,17 @@
   "versions": [
     {
       "name": "English",
-      "locale": "en"
+      "locale": "en",
+      "pages": [
+        "introduction"
+      ]
     },
     {
       "name": "Español",
-      "locale": "es"
+      "locale": "es",
+      "pages": [
+        "introduction"
+      ]
     }
   ],
   "defaultVersion": "English",
