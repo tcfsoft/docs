@@ -16,14 +16,14 @@
   "versions": [
     {
       "name": "English",
-      "path": "en"
+      "folder": "en"
     },
     {
       "name": "Español",
-      "path": "es"
+      "folder": "es"
     }
   ],
-  "defaultVersion": "en",
+  "defaultVersion": "English",
   "navigation": [
     {
       "group": "",
