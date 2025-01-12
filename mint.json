@@ -18,14 +18,14 @@
       "name": "English",
       "locale": "en",
       "pages": [
-        "introduction"
+        "en/introduction"
       ]
     },
     {
       "name": "Español",
       "locale": "es",
       "pages": [
-        "introduction"
+        "es/introduction"
       ]
     }
   ],
