@@ -16,17 +16,11 @@
   "versions": [
     {
       "name": "English",
-      "locale": "en",
-      "pages": [
-        "en/introduction"
-      ]
+      "locale": "en"
     },
     {
       "name": "Español",
-      "locale": "es",
-      "pages": [
-        "es/introduction"
-      ]
+      "locale": "es"
     }
   ],
   "defaultVersion": "English",
@@ -35,6 +29,20 @@
       "group": "",
       "pages": [
         "introduction"
+      ]
+    },
+    {
+      "locale": "en",
+      "group": "English",
+      "pages": [
+        "en/introduction"
+      ]
+    },
+    {
+      "locale": "es",
+      "group": "Español",
+      "pages": [
+        "en/introduction"
       ]
     }
   ]
