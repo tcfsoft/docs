@@ -16,11 +16,11 @@
   "versions": [
     {
       "name": "English",
-      "folder": "en"
+      "locale": "en"
     },
     {
       "name": "Español",
-      "folder": "es"
+      "locale": "es"
     }
   ],
   "defaultVersion": "English",
