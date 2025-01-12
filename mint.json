@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Prism Starter Kit",
-  "theme": "prism",
+  "name": "Mordor",
+  "theme": "maple",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg",
-    "href": "https://starter-prism.mintlify.app/"
+    "href": "https://mordor.mintlify.app/"
   },
   "favicon": "/favicon.svg",
   "colors": {
